@@ -30,13 +30,13 @@ The successful build of a JAR file is a critical step in the CI pipeline because
 The success of the project is visually demonstrated through the following screenshots:
 
 Jenkins Project Success Message:
-![Screenshot](jenkins_success_msg_project.png)
+![Screenshot](screenshots/jenkins_success_msg_project.png)
 
 Jenkins Console Output Success Message:
-![Screenshot](jenkins_console_output.png)
+![Screenshot](screenshots/jenkins_console_output.png)
 
 Jenkins Build Success Message:
-![Screenshot](jenkins_build_success_message.png)
+![Screenshot](screenshots/jenkins_build_success_message.png)
 
 # Support and Contact
 
