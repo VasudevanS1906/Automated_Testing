@@ -2,6 +2,22 @@
 
 Implementing a Jenkins-based CI pipeline to automate the build process for a Java application with many classes. The pipeline will compile the source code, execute over 100 unit tests, and package the application into a JAR file within 5 minutes. This streamlined process ensures consistent and reliable builds, reducing manual effort and minimizing errors, ultimately improving productivity and code quality
 
+# Screenshots 
+
+The success of the project is visually demonstrated through the following screenshots:
+
+Jenkins Project Success Message:
+![Screenshot](screenshots/jenkins_success_msg_project.png)
+
+Jenkins Console Output Success Message:
+![Screenshot](screenshots/jenkins_console_output.png)
+
+Jenkins Build Success Message:
+![Screenshot](screenshots/jenkins_build_success_message.png)
+
+Jenkins Successful Jar file Built:
+![Screenshot](screenshots/jar_file_is_built_jenkins.png)
+
 # Automating Java Builds with Jenkins and Docker
 
 Building a JAR file for a Java application using Jenkins and Docker is an important step in implementing a Continuous Integration (CI) pipeline. CI is a software development practice that involves automatically building, testing, and deploying code changes to ensure that the application is always in a releasable state. Jenkins, a popular open-source automation server, plays a crucial role in this process by orchestrating the various stages of the CI pipeline.
@@ -24,22 +40,6 @@ The successful build of a JAR file is an essential milestone in the CI pipeline 
 
 The successful build of a JAR file is a critical step in the CI pipeline because it represents a stable and executable version of the application that can be further tested, deployed, and released. By automating this process with Jenkins and Docker, developers can focus on writing code while ensuring that the application is always in a releasable state, ultimately leading to faster delivery, higher quality, and improved collaboration within the development team.
 
-# Screenshots 
-
-
-The success of the project is visually demonstrated through the following screenshots:
-
-Jenkins Project Success Message:
-![Screenshot](screenshots/jenkins_success_msg_project.png)
-
-Jenkins Console Output Success Message:
-![Screenshot](screenshots/jenkins_console_output.png)
-
-Jenkins Build Success Message:
-![Screenshot](screenshots/jenkins_build_success_message.png)
-
-Jenkins Successful Jar file Built:
-![Screenshot](screenshots/jar_file_is_built_jenkins.png)
 
 # Support and Contact
 
